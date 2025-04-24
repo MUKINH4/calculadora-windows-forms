@@ -3,11 +3,11 @@ Uma calculadora desenvolvida em C# com Windows Forms que oferece operações mat
 
 ## 🔸 INTEGRANTES
 
-Samuel Heitor - RM 556731
-Renato David - RM 555627
-Lucas Nicolini - RIM 55/613
-Gustavo Lopes - RM 556859
-Gabriel Jablonski - RM 555452
+Samuel Heitor - RM 556731<br />
+Renato David - RM 555627<br />
+Lucas Nicolini - RIM 55/613<br />
+Gustavo Lopes - RM 556859<br />
+Gabriel Jablonski - RM 555452<br />
 Matheus Munuera - RM 557812
 
 ## 🔸 Recursos
