@@ -56,7 +56,7 @@ Para números decimais, a formatação é aplicada com duas casas decimais
 
 ## 🔸 Tecnologias
 
-Linguagem C#
-Framework .NET
-Interface Windows Forms
+Linguagem C# - 
+Framework .NET - 
+Interface Windows Forms - 
 Programação orientada a eventos
