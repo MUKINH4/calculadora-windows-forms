@@ -1,0 +1,35 @@
+C:\Users\Rei Do Gesso\source\repos\cp1-winforms\cp1-winforms\bin\Debug\net8.0-windows\cp1-winforms.exe
+C:\Users\Rei Do Gesso\source\repos\cp1-winforms\cp1-winforms\bin\Debug\net8.0-windows\cp1-winforms.deps.json
+C:\Users\Rei Do Gesso\source\repos\cp1-winforms\cp1-winforms\bin\Debug\net8.0-windows\cp1-winforms.runtimeconfig.json
+C:\Users\Rei Do Gesso\source\repos\cp1-winforms\cp1-winforms\bin\Debug\net8.0-windows\cp1-winforms.dll
+C:\Users\Rei Do Gesso\source\repos\cp1-winforms\cp1-winforms\bin\Debug\net8.0-windows\cp1-winforms.pdb
+C:\Users\Rei Do Gesso\source\repos\cp1-winforms\cp1-winforms\obj\Debug\net8.0-windows\cp1_winforms.Form1.resources
+C:\Users\Rei Do Gesso\source\repos\cp1-winforms\cp1-winforms\obj\Debug\net8.0-windows\cp1_winforms.Properties.Resources.resources
+C:\Users\Rei Do Gesso\source\repos\cp1-winforms\cp1-winforms\obj\Debug\net8.0-windows\cp1-winforms.csproj.GenerateResource.cache
+C:\Users\Rei Do Gesso\source\repos\cp1-winforms\cp1-winforms\obj\Debug\net8.0-windows\cp1-winforms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rei Do Gesso\source\repos\cp1-winforms\cp1-winforms\obj\Debug\net8.0-windows\cp1-winforms.AssemblyInfoInputs.cache
+C:\Users\Rei Do Gesso\source\repos\cp1-winforms\cp1-winforms\obj\Debug\net8.0-windows\cp1-winforms.AssemblyInfo.cs
+C:\Users\Rei Do Gesso\source\repos\cp1-winforms\cp1-winforms\obj\Debug\net8.0-windows\cp1-winforms.csproj.CoreCompileInputs.cache
+C:\Users\Rei Do Gesso\source\repos\cp1-winforms\cp1-winforms\obj\Debug\net8.0-windows\cp1-winforms.dll
+C:\Users\Rei Do Gesso\source\repos\cp1-winforms\cp1-winforms\obj\Debug\net8.0-windows\refint\cp1-winforms.dll
+C:\Users\Rei Do Gesso\source\repos\cp1-winforms\cp1-winforms\obj\Debug\net8.0-windows\cp1-winforms.pdb
+C:\Users\Rei Do Gesso\source\repos\cp1-winforms\cp1-winforms\obj\Debug\net8.0-windows\cp1-winforms.genruntimeconfig.cache
+C:\Users\Rei Do Gesso\source\repos\cp1-winforms\cp1-winforms\obj\Debug\net8.0-windows\ref\cp1-winforms.dll
+D:\dev\C#\cp1-winforms\cp1-winforms\bin\Debug\net8.0-windows\cp1-winforms.exe
+D:\dev\C#\cp1-winforms\cp1-winforms\bin\Debug\net8.0-windows\cp1-winforms.deps.json
+D:\dev\C#\cp1-winforms\cp1-winforms\bin\Debug\net8.0-windows\cp1-winforms.runtimeconfig.json
+D:\dev\C#\cp1-winforms\cp1-winforms\bin\Debug\net8.0-windows\cp1-winforms.dll
+D:\dev\C#\cp1-winforms\cp1-winforms\bin\Debug\net8.0-windows\cp1-winforms.pdb
+D:\dev\C#\cp1-winforms\cp1-winforms\obj\Debug\net8.0-windows\cp1_winforms.Form1.resources
+D:\dev\C#\cp1-winforms\cp1-winforms\obj\Debug\net8.0-windows\cp1_winforms.Properties.Resources.resources
+D:\dev\C#\cp1-winforms\cp1-winforms\obj\Debug\net8.0-windows\cp1-winforms.csproj.GenerateResource.cache
+D:\dev\C#\cp1-winforms\cp1-winforms\obj\Debug\net8.0-windows\cp1-winforms.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\C#\cp1-winforms\cp1-winforms\obj\Debug\net8.0-windows\cp1-winforms.AssemblyInfoInputs.cache
+D:\dev\C#\cp1-winforms\cp1-winforms\obj\Debug\net8.0-windows\cp1-winforms.AssemblyInfo.cs
+D:\dev\C#\cp1-winforms\cp1-winforms\obj\Debug\net8.0-windows\cp1-winforms.csproj.CoreCompileInputs.cache
+D:\dev\C#\cp1-winforms\cp1-winforms\obj\Debug\net8.0-windows\cp1-winforms.dll
+D:\dev\C#\cp1-winforms\cp1-winforms\obj\Debug\net8.0-windows\refint\cp1-winforms.dll
+D:\dev\C#\cp1-winforms\cp1-winforms\obj\Debug\net8.0-windows\cp1-winforms.pdb
+D:\dev\C#\cp1-winforms\cp1-winforms\obj\Debug\net8.0-windows\cp1-winforms.genruntimeconfig.cache
+D:\dev\C#\cp1-winforms\cp1-winforms\obj\Debug\net8.0-windows\ref\cp1-winforms.dll
+D:\dev\C#\cp1-winforms\cp1-winforms\obj\Debug\net8.0-windows\cp1_winforms.ResumeWindow.resources
